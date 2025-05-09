@@ -1,3 +1,4 @@
+
 name = "onedrive-index"
 type = "javascript"
 account_id = "fd5e01fa0a1d9e9d74a2f23e819098d8"
@@ -8,4 +9,4 @@ main = "src/pages/api/[[...routes]].ts"
 [vars]
 ONEDRIVE_CLIENT_ID = "d87bcc39-1750-4ca0-ad54-f8d0efbb2735"
 ONEDRIVE_CLIENT_SECRET = "e86cf3d7-85e2-4a94-8ae5-25915c1f3b5e"
-ONEDRIVE_REFRESH_TOKEN = """0.AAAAeYkvwNlMiUekGrdU3eC88gIjvSgK7GRIjuyAqt6hPeiM9vAAAJlGxRie6zRI9rscwBBA7o6w7MZoVhfjN2PtDqPkGOFXRGfT4jliByCkcmOnGckSXM71tEZrPUAhFTHmjIvjZz93SHKmWpUkzYtbFbyTRfWTyUHRQKrkwzXCr6DKxokZevR9YAnTPTbD6I6FtqRsmQ1Lb8MGqjjU2auBejJKpV8I0zq0bA5DbZk6TlyhsS8aJU6B1Av1UkWxe1Nn_G91aUiwcG_AA"""
+ONEDRIVE_REFRESH_TOKEN = "0.AAAAeYkvwNlMiUekGrdU3eC88gIjvSgK7GRIjuyAqt6hPeiM9vAAAJlGxRie6zRI9rscwBBA7o6w7MZoVhfjN2PtDqPkGOFXRGfT4jliByCkcmOnGckSXM71tEZrPUAhFTHmjIvjZz93SHKmWpUkzYtbFbyTRfWTyUHRQKrkwzXCr6DKxokZevR9YAnTPTbD6I6FtqRsmQ1Lb8MGqjjU2auBejJKpV8I0zq0bA5DbZk6TlyhsS8aJU6B1Av1UkWxe1Nn_G91aUiwcG_AA"
