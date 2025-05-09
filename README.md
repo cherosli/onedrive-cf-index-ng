@@ -147,5 +147,5 @@ Yes! Completely free with no backend server what-so-ever.
   <img src="./public/footer.png" />
   <em>made with ❤️ by <a href="https://lyc8503.net">lyc8503</a> & <a href="https://spencerwoo.com">spencer woo</a></em>
 </div>
-
+alololo tahik
 
